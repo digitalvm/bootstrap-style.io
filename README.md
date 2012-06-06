@@ -1,4 +1,4 @@
 bootstrap-style.io
 ==================
 
-style.io theme
+experimental theme for Twitter bootstrap - "style.io"
